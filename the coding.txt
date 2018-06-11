@@ -4,3 +4,5 @@ HTML
 Cucumber
 Maven
 Selenium
+Eclipse
+Sublime
